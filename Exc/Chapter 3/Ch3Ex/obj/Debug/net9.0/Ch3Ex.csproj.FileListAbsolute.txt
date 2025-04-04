@@ -1,0 +1,14 @@
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 3/Ch3Ex/bin/Debug/net9.0/Ch3Ex
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 3/Ch3Ex/bin/Debug/net9.0/Ch3Ex.deps.json
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 3/Ch3Ex/bin/Debug/net9.0/Ch3Ex.runtimeconfig.json
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 3/Ch3Ex/bin/Debug/net9.0/Ch3Ex.dll
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 3/Ch3Ex/bin/Debug/net9.0/Ch3Ex.pdb
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 3/Ch3Ex/obj/Debug/net9.0/Ch3Ex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 3/Ch3Ex/obj/Debug/net9.0/Ch3Ex.AssemblyInfoInputs.cache
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 3/Ch3Ex/obj/Debug/net9.0/Ch3Ex.AssemblyInfo.cs
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 3/Ch3Ex/obj/Debug/net9.0/Ch3Ex.csproj.CoreCompileInputs.cache
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 3/Ch3Ex/obj/Debug/net9.0/Ch3Ex.dll
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 3/Ch3Ex/obj/Debug/net9.0/refint/Ch3Ex.dll
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 3/Ch3Ex/obj/Debug/net9.0/Ch3Ex.pdb
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 3/Ch3Ex/obj/Debug/net9.0/Ch3Ex.genruntimeconfig.cache
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 3/Ch3Ex/obj/Debug/net9.0/ref/Ch3Ex.dll
