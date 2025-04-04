@@ -1,5 +1,6 @@
 ﻿using System;
 
+// This program calculates the number of years it will take to reach a target balance
 class Program
 {
 	static void Main(string[] args)
