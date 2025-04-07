@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\compe\\.nuget\\packages\\": {}
+    "/Users/nicholaj/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\compe\\OneDrive\\Desktop\\OOP\\OOP\\Exc\\Chapter 5\\Ch5Ex1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Ch5Ex1/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\compe\\OneDrive\\Desktop\\OOP\\OOP\\Exc\\Chapter 5\\Ch5Ex1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\compe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\compe\\OneDrive\\Desktop\\OOP\\OOP\\Exc\\Chapter 5\\Ch5Ex1\\ConsoleApp1\\obj\\",
+      "projectPath": "/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Ch5Ex1/ConsoleApp1/ConsoleApp1.csproj",
+      "packagesPath": "/Users/nicholaj/.nuget/packages/",
+      "outputPath": "/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Ch5Ex1/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\compe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/nicholaj/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
