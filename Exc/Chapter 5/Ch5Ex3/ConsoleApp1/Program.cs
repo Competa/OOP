@@ -5,8 +5,7 @@ class Program
     enum Orientation : byte
     {
         North = 1,
-        East = 2; 
-//This code is stupid af
+        East = 2,
         South = 3,
         West = 4
     }
@@ -36,7 +35,7 @@ class Program
         myRoute.Direction = (Orientation)myDirection;
         myRoute.Distance = myDistance;
 
-        Console.WriteLine($"myRoute specifies a direction of {myRoute.Direction} and a distance of {myRoute.Distance}");
+        Console.WriteLine($"myRoute specifies a direction of {myRoute.Direction} and a distance of {myRoute.Distance}"2);
         Console.ReadKey();
     }
 }
