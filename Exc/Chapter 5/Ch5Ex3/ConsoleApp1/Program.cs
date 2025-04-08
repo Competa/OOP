@@ -4,10 +4,6 @@ using System.Reflection.Metadata.Ecma335;
 
 class Program
 {
-    
-    
-
-
     enum Orientation : byte
     {
         North = 1,
