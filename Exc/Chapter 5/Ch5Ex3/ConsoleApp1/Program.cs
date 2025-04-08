@@ -5,7 +5,8 @@ class Program
     enum Orientation : byte
     {
         North = 1,
-        East = 2,
+        East = 2; 
+//This code is stupid af
         South = 3,
         West = 4
     }
