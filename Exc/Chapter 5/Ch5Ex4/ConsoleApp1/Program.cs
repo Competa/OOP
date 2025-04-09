@@ -10,3 +10,4 @@ for (i = 0; i < friendNames.Length; i++)
 Console.ReadKey();
 }
 
+//The above code does not work.
