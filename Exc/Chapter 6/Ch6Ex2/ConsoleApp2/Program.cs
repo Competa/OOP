@@ -19,5 +19,5 @@ class Program
         int maxVal = MaxValue(myArray);
         Console.WriteLine($"The maximum value in myArray is {maxVal}");
         Console.ReadKey();
-    }
+    } 
 }
