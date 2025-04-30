@@ -13,7 +13,7 @@ namespace ConsoleApp1
                 Console.WriteLine(friendNames[i]);
             }
             Console.ReadKey();
+            
         }
     }
-    // Disable copilto completion
 }
