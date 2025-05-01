@@ -1,0 +1,15 @@
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Excercises/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Excercises/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Excercises/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Excercises/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Excercises/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Excercises/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Excercises/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Excercises/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Excercises/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Excercises/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.sourcelink.json
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Excercises/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Excercises/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Excercises/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Excercises/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/Users/nicholaj/Desktop/OOP/Exc/Chapter 5/Excercises/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
