@@ -11,4 +11,6 @@ class Program
 
         Console.WriteLine($"Hi, I am {age} years old and I identify as {gender}");
     }
+
+    static void
 }
