@@ -5,7 +5,7 @@ class Program
     static void Write()
     {
         string myString = "Stgring defined in Write()";
-        Console.WriteLine("Now in Write()");
+        Console.WriteLine("new test");
         Console.WriteLine($"myString = {myString}");
     }
 
